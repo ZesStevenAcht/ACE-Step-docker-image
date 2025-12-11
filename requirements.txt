@@ -1,0 +1,4 @@
+# Minimal helper requirements that are often needed to build/install Python packages.
+# ACE-Step's own dependencies are installed from its packaging when we pip install the project.
+setuptools>=65.0.0
+wheel
